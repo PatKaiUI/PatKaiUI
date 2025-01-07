@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 😄
+ 
+ > I'm a passionate front-end developer with a strong enthusiasm for UI design and creative styling.
+ 
+ > Currently, I'm honing my skills in **HTML**, **CSS**, and **JavaScript** 
+  to soon offer professional services like websites, logo designs, and more.
 
 <!--
 **PatKaiUI/PatKaiUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
