@@ -64,3 +64,18 @@ Momentan als GitHub-Repo verfügbar – bald auch live!
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0DF7FF&center=true&vCenter=true&width=500&lines=Web+Apps+die+knallen!;Design+trifft+Code.;Ich+baue+Innovationen+statt+Kopien.;Let%E2%80%99s+build+something+great!" />
 </div>
+
+---
+
+### 🧍‍♂️ Mehr über mich
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Skater+at+heart%2C+Coder+by+passion.;Family+first+%E2%9D%A4%EF%B8%8F+Code+second+%F0%9F%92%BB;Pixel+Perfect+%7C+Bug+Hunter+%7C+Game+Lover" />
+</div>
+
+- 🛹 Früher fast täglich auf dem Board – heute immer noch, wenn’s passt.
+- 👨‍👩‍👧‍👦 Family über alles. Work-Life-Balance? Wichtig!
+- 🎮 Gaming-Fan mit Vorliebe für gute Stories und starke Welten.
+- 💻 Am liebsten coden mit einem Kaffee und **satten elektronischen Beats** – Techno ballert 🖤🎶
+
+---
