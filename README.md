@@ -26,7 +26,7 @@
 ---
 
 ### 😄 Fun Facts  
-- Mein CSS tanzt besser als ich 🕺  
+- Mein CSS tanzt besser als ich 🕺; Auch wenn manchmal Drama ist, lieben wir uns 💔➡️❤️
 - Ich finde langweilige Webseiten eine Beleidigung fürs Web  
 - Meine Projekte sind wie Popcorn – leicht, knusprig, und süchtig machend 🍿  
 - Wenn Bugs auftauchen, sagen wir einfach: „It’s a feature!“
