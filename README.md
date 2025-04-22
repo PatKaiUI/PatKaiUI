@@ -62,7 +62,7 @@ Momentan als GitHub-Repo verfügbar – bald auch live!
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0DF7FF&center=true&vCenter=true&width=500&lines=Web+Apps+die+knallen!;Design+trifft+Code.;Ich+baue+Innovationen+statt+Kopien.;Let%E2%80%99s+build+something+great!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0DF7FF&center=true&vCenter=true&width=500&lines=Web+Apps+die+knallen!;Design+trifft+Code.;Ich+möchte+Innovationen+kreieren.;Let%E2%80%99s+build+something+great!" />
 </div>
 
 ---
