@@ -57,7 +57,8 @@
 ---
 
 ### 📂 Mein Portfolio
-<p>
+<p align="center&textColor=white
+">
 <a href="https://patrickswebfolio.netlify.app/" />
   </p>
 
