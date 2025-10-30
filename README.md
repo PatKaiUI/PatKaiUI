@@ -57,7 +57,7 @@
 ---
 
 ### 📂 Mein Portfolio
-Momentan als GitHub-Repo verfügbar – bald auch live!
+<a href="https://patrickswebfolio.netlify.app/" />
 
 ---
 
