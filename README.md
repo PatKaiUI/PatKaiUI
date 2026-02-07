@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, ich bin Patrick</h1>
-<p align="center">Webentwickler in Ausbildung – auf Mission: <strong>Keine langweiligen Webseiten mehr!</strong></p>
+<p align="center">Webentwickler – auf Mission: <strong>Keine langweiligen Webseiten mehr!</strong></p>
 
 ---
 
